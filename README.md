@@ -1,0 +1,26 @@
+# car_rental
+PHP Car rental website that allow customers to view,search,sort and reserve cars at the time they want and manage their reservations . also the admin is managing the website by his permissions (add,update,delete,search,list) cars and users .
+
+![Preview](Preview/Screenshot%20(108).jpg)
+![Preview](Preview/Screenshot%20(110).jpg)
+![Preview](Preview/Screenshot%20(111).jpg)
+![Preview](Preview/Screenshot%20(114).jpg)
+![Preview](Preview/Screenshot%20(115).jpg)
+![Preview](Preview/Screenshot%20(119).jpg)
+![Preview](Preview/Screenshot%20(131).jpg)
+![Preview](Preview/Screenshot%20(132).jpg)
+![Preview](Preview/Screenshot%20(133).jpg)
+![Preview](Preview/Screenshot%20(121).jpg)
+![Preview](Preview/Screenshot%20(122).jpg)
+![Preview](Preview/Screenshot%20(123).jpg)
+![Preview](Preview/Screenshot%20(124).jpg)
+![Preview](Preview/Screenshot%20(125).jpg)
+![Preview](Preview/Screenshot%20(126).jpg)
+![Preview](Preview/Screenshot%20(139).jpg)
+![Preview](Preview/Screenshot%20(127).jpg)
+![Preview](Preview/Screenshot%20(134).jpg)
+![Preview](Preview/Screenshot%20(135).jpg)
+![Preview](Preview/Screenshot%20(136).jpg)
+![Preview](Preview/Screenshot%20(137).jpg)
+![Preview](Preview/Screenshot%20(138).jpg)
+
