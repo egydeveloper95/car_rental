@@ -21,6 +21,6 @@ PHP Car rental website that allow customers to view,search,sort and reserve cars
 ![Preview](Preview/Screenshot%20(134).jpg)
 ![Preview](Preview/Screenshot%20(135).jpg)
 ![Preview](Preview/Screenshot%20(136).jpg)
-![Preview](Preview/Screenshot%20(137).jpg)
-![Preview](Preview/Screenshot%20(138).jpg)
+![Preview](Preview/Screenshot%20(137).png)
+![Preview](Preview/Screenshot%20(138).png)
 
